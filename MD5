@@ -1,0 +1,11 @@
+7b44db3fe9065e164308f3ab5cef4874 *DESCRIPTION
+2d49d20d15f02007858886824d61e8bc *LICENSE
+0a5a829e9273a6d169e9e1f5091bc34d *NAMESPACE
+f4a85080ce9235bcc4932d6c09cf29ff *R/imgocr.R
+b142137089a61dca93dc44031839442d *README.md
+8a5d7ca727cafb1937cc6c5c9e86f6ab *build/vignette.rds
+7e2badb79057f007db058d2f8c329018 *inst/doc/simpletex.R
+860b415118b04ea997db37ab4a0e1bd2 *inst/doc/simpletex.Rmd
+bcfcb362793f35d39d0755a3dd6ff5ed *inst/doc/simpletex.html
+c5c82c832269c4f857dfa31821df4052 *man/imgocr.Rd
+860b415118b04ea997db37ab4a0e1bd2 *vignettes/simpletex.Rmd
