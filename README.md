@@ -36,11 +36,11 @@ imgocr(img = "path/to/image", mode = "latex_ocr")
 - `img` An image file, supporting jpg, png, bmp format.
 - `mode` is service model. The value can be `latex_ocr`, `latex_ocr_turbo`, or `simpletex_ocr`. The default value is `latex_ocr`. The `latex_ocr` and `latex_ocr_turbo` are used for formula identification. `latex_ocr` is better than `latex_ocr_turbo`, but `latex_ocr_turbo` is faster. `simpletex_ocr` is suitable for general image recognition.
 
-For the output, for example: 'E=mc^2', you can copy only the parts within
+For the output, for example: "E=mc^2", you can copy only the parts within
 quotation marks of the output directly into the '.md' or '.tex' document.
 
 Note: in order to the formula to render properly in '.md' or '.tex' documents,
-you also need to wrap the formula with '$' or '$$' on both sides.
+you also need to wrap the formula with `$` or `$$` on both sides.
 
 ## License
 
