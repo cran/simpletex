@@ -22,7 +22,7 @@
 
 #---------------------------------------------------------------------------
 
-imgocr = \(img, mode = "latex_ocr") {
+imgocr = function(img, mode = "latex_ocr") {
 
   # Get the APP ID and SECRET for SimpleTex API
   SIMPLETEX_APP_ID = Sys.getenv("SIMPLETEX_APP_ID")

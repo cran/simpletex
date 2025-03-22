@@ -6,8 +6,8 @@ By calling the 'SimpleTex' <https://simpletex.cn/> open API implements text and 
 ## Installation
 
 ``` r
-# Install development version from GitLab
-remotes::install_gitlab("chuxinyuan/simpletex")
+# Install development version from GitHub
+remotes::install_github("chuxinyuan/simpletex")
 # Install from CRAN
 install.packages("simpletex")
 ```
